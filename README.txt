@@ -1,4 +1,4 @@
-Here you would find a Jupyter notebook (i.e., Lagragian_Air_quality.ipynb) created by Casallas et al. (submitted) doi: . 
+Here you would find a Jupyter notebook (i.e., Lagragian_Air_quality.ipynb) created by Casallas et al. (pre-print) doi: . 
 The notebook is self explanatory since it has many comments, and also an example to reproduce some of the plots that can be found in the main text and the SM of the paper
 We add here (or in a drive link) the files needed to run the examples to make the use of the tracker easier and friendly
 
